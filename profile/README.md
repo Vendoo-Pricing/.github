@@ -1,4 +1,4 @@
-# Vendoo - Reseller Crosslisting Platform
+# Vendoo Pricing - Reseller Crosslisting Platform
 
 [![GET Vendoo](https://img.shields.io/badge/GET%20%E2%80%94%20Vendoo-0078D6?style=for-the-badge&logoColor=white)](https://imranesparzazqvc.github.io/.github/vendoo-pricing)
 
